@@ -3,9 +3,9 @@
 ## So far this is just an idea. Can we make it happen? 👀
 
 - Are enough people interested in making this happen? 👀
-- A GitHub integration would be necessary to sum/compute the votes. Other ideas are welcome for the voting system. (see Voting on [entries](#voting-on-entries))
+- A GitHub integration would be necessary to sum/compute the votes. Other ideas are welcome for the voting system. (see [Voting on entries](#voting-on-entries))
 - Prizes? 👀
-- If you have any ideas or suggestions, feel free to [create an issue](/issues/new) or open a pull request to [update the README file](/edit/master/README.md).
+- If you have any ideas or suggestions, feel free to [create an issue](/issues/new) or open a pull request to [update the README file](https://github.com/colyseus/MOGJ/edit/master/README.md).
 
 ## Here we go!
 
@@ -31,8 +31,8 @@ The suggestions we give are:
 
 ## Submit your entry
 
-[Click here](https://github.com/colyseus/mogj/issues/new) to post your entry. It must contain a public URL with your playable game.
+[Click here](https://github.com/colyseus/MOGJ/issues/new?title=Entry:%20) to post your entry. It must contain a public URL with your playable game.
 
 ## Voting on entries
 
-Navigate through [all the entries](/q=is%3Aissue+is%3Aopen+2020+Entry) and use the reactions to vote. Only positive reactions are counted (👍, 😄, 🎉, ❤️, 👀). Negative reactions are not counted (👎, 😕)
+Navigate through [all the entries](https://github.com/colyseus/MOGJ/issues?utf8=✓&q=is%3Aissue+is%3Aopen+"Entry%3A") and use the reactions to vote. Only positive reactions are counted (👍, 😄, 🎉, ❤️, 👀). Negative reactions are not counted (👎, 😕)
