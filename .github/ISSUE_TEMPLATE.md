@@ -1,6 +1,6 @@
 <!--
 This is a game entry template.
-If you're not posting a game entry, please remove all this contents!
+If you're not posting a game entry, please remove all these contents!
 -->
 
 # [Game Title]
