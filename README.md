@@ -15,7 +15,11 @@ Hey, it's 2020! Did you know that making multiplayer games is not as hard as it 
 
 ## Rules
 
-The rules are simple. The game must run on web browsers (HTML5), and be playable with 2+ online players. That's all! When submitting your game entry, please include a link to the playable URL.
+- The source-code of the game should be available (GitHub, BitBucket, GitLab, etc.)
+- The game should be playable with 2+ online players
+- Make it easy for people to test your game!
+  - By providing a playable URL
+  - By providing builds for multiple platforms (Windows, MacOS)
 
 ## Select your prefered solution
 
@@ -32,6 +36,9 @@ The suggestions we give are:
 ## Submit your entry
 
 [Click here](https://github.com/colyseus/MOGJ/issues/new?title=Entry:%20) to post your entry. It must contain a public URL with your playable game.
+
+If you're going to provide a executable build (Windows, MacOS, etc), use the
+[GitHub releases](https://help.github.com/en/articles/creating-releases) to upload it.
 
 ## Voting on entries
 
