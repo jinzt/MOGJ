@@ -1,6 +1,6 @@
 # MOGJ - Multiplayer Online Game Jam
 
-[https://colyseus.io/mogj/](https://colyseus.io/mogj/)
+Check out the website [https://colyseus.io/mogj/](https://colyseus.io/mogj/)
 
 ## Submit your entry
 
