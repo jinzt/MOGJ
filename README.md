@@ -1,6 +1,6 @@
 # MOGJ - Multiplayer Online Game Jam
 
-Check out the website [https://jinzt.github.io/mogj/](https://jinzt.github.io/mogj/)
+Check out the website [https://jinzt.top/mogj/](https://jinzt.top/mogj/)
 
 ## Submit your entry
 
